@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello and welcome to my GitHub.
 
-<!--
-**Saber-Matt/Saber-Matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a user focused FullStack Engineer who is passionate about how we enrich the lives of others through tech.
 
-Here are some ideas to get you started:
+ Surviving every iteration and advancement in technology is a core truth. We build what we build for people and those things people care about. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In doing so, we uplift others. Sometimes in small ways, sometimes in ways that cannot be measured; though some have tried.
+
+I believe the work we do each day should lead to the betterment of ourselves, our communities, and those across the globe. Even if we think that betterment is too small to measure.
+
+Thank you for coming to my tech talk.
+
+*steps down from soapbox and submits pull request
